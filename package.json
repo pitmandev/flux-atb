@@ -1,0 +1,19 @@
+{
+  "name": "flux-atb",
+  "version": "1.0.0",
+  "description": "Primer proyecto flux sincronizado en github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pitmandev/flux-atb.git"
+  },
+  "author": "Charlie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pitmandev/flux-atb/issues"
+  },
+  "homepage": "https://github.com/pitmandev/flux-atb#readme"
+}
