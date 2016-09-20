@@ -81,7 +81,7 @@ http.createServer(function(req, res) {
     // so that it uses the global variable (from the CDN JS file) instead of
     // bundling it up with everything else
     browserify()
-      .add('./browser.js')
+      .add('./dist/browser.js')
       .transform(literalify.configure({
         'react': 'window.React',
         'react-dom': 'window.ReactDOM',
